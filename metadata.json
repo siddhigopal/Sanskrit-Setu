@@ -1,0 +1,6 @@
+{
+  "name": "Sanskrit Setu – Intelligent Sanskrit Knowledge Explorer",
+  "description": "KRITI IKS Tech Challenge 2026 application exploring Vedic literature, Upanishads, Ayurveda, Yoga, and Indian philosophy with Devanagari, transliteration, and multilingual translations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
